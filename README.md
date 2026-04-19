@@ -48,6 +48,11 @@
   <img src="https://img.shields.io/badge/Riverpod-00C853?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/EF_Core-68217A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_API-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Auth_JWT-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge" />
 </p>
 
 ---
@@ -65,14 +70,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=flutter-dev7&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=flutter-dev7&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
