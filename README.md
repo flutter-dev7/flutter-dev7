@@ -1,30 +1,38 @@
 <!-- 🔥 Typing Animation -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+%26+.NET+Developer;Clean+Architecture;Building+Real+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+%26+.NET+Developer;Building+Scalable+Apps;Clean+Architecture+Lover;Always+Learning+🚀" />
 </p>
 
-<h2 align="center">👋 Hi, I'm Ismoil</h2>
+<h1 align="center">👋 Hi, I'm Ismoil</h1>
 
 <p align="center">
-  🚀 Flutter & Backend Developer • 💡 Scalable Apps • ⚡ Clean Code
+  🚀 Flutter & Backend Developer <br/>
+  💡 Building scalable mobile & web apps <br/>
+  ⚡ Clean code • Real projects • Strong backend
 </p>
 
 ---
 
-## 🧠 About
+## 🧠 About Me
+<p align="center">
+  I focus on building real-world applications with strong architecture and clean design.
+  <br/>
+  I combine <b>Flutter</b> for UI and <b>.NET</b> for powerful backend systems.
+</p>
 
-* 📱 Flutter (Dart)
-* 🖥 .NET / ASP.NET Core
-* 🔐 API & JWT Auth
-* 🧩 Clean Architecture
+---
+
+## 🚀 What I’m Working On
+- 📱 Instagram-like app (Flutter + API)
+- 💬 Real-time Chat (Firebase)
+- 🧩 Clean Architecture projects
+- 🔐 Authentication systems (JWT)
 
 ---
 
 ## ⚒️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,postgres,git,github" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,postgres,git,github,firebase" />
 </p>
 
 <p align="center">
@@ -38,28 +46,11 @@
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flutter-dev7&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flutter-dev7&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="https://t.me/ismoilflutter">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:zajnalovismoil07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⚡ <b>Code • Build • Scale</b>
-</p>
+## 🧩 Architecture Skills
+```txt
+✔ Clean Architecture
+✔ Layered Structure
+✔ State Management (Riverpod / Provider)
+✔ REST API Integration
+✔ Secure Auth (JWT + Token Flow)
+✔ Backend Logic Design
