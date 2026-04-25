@@ -9,7 +9,7 @@
 
 <br/>
 
-# 👾 Ismoil Zajnalov
+# 👾 Ismoil Zainalov
 
 **Flutter & Backend Developer** · Dushanbe, Tajikistan 🇹🇯
 
